@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "955051146425",
+    "project_id": "water-quality-check-76f33",
+    "storage_bucket": "water-quality-check-76f33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955051146425:android:7dd05d3ef67407160faf68",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955051146425-epafk1ke50ssluenm3og52nfg1l1k5t0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvPWtVsHiq64SaaTLNNTmny2BdS-XE-5w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955051146425-epafk1ke50ssluenm3og52nfg1l1k5t0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
